@@ -1,0 +1,164 @@
+/* Calendar */
+table.booked-calendar tr.days th {
+	border: 1px solid #ddd !important;
+}
+table.booked-calendar td,
+table.booked-calendar td+td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+/* Booked form */
+body .booked-form .field .checkbox-radio-block label {
+	padding-left: 1.4em;
+}
+body .booked-form .field .checkbox-radio-block label:before {
+	line-height: 0.65em;
+}
+
+/* Login form */
+#booked-page-form .login-remember input {
+	display: inline;
+	vertical-align:middle;
+}
+
+#booked-profile-page i.fa {
+	color: inherit;
+}
+
+/* User profile header */
+#booked-profile-page div.booked-profile-header {
+	padding: 0 0 2em;
+}
+#booked-profile-page div.booked-user-avatar {
+	width: 50px;
+	height:50px;
+}
+#booked-profile-page div.booked-user-avatar img {
+	-webkit-border-radius: 50%;
+	    -ms-border-radius: 50%;
+			border-radius: 50%;
+}
+#booked-profile-page .booked-user h3 strong {
+	font-weight:400;
+}
+
+/* User profile content */
+#booked-profile-page div.booked-tab-content {
+	-webkit-border-radius: 0;
+	    -ms-border-radius: 0;
+			border-radius: 0;
+}
+/* Booked */
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar {
+	position: relative;
+	overflow: hidden;
+	border-bottom: none !important;
+}
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar thead tr,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar thead tr {
+	border: none;
+}
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar tbody tr.week,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar tbody tr.week {
+	border-left: none;
+	border-top: none;
+	border-bottom: 1px solid #eee;
+}
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar tbody tr.week:last-child,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar tbody tr.week:last-child {
+	border-bottom: none;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar tbody tr td,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar tbody tr td {
+	border-right: 1px solid #eee;
+}
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar tbody tr td:last-child,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar tbody tr td:last-child {
+	border-right: none;
+}
+.booked-calendar-shortcode-wrap .booked-calendar-wrap table.booked-calendar tbody tr td:first-child,
+.booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar tbody tr td:first-child {
+	border-left: none;
+}
+div.booked-calendar-wrap.small table.booked-calendar thead tr th .monthName,
+div.booked-calendar-wrap table.booked-calendar thead tr th .monthName {
+	font-size: 24px ;
+	letter-spacing: 0.05em;
+	line-height: 1.1em;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding-bottom: 0;
+}
+body div.booked-calendar-wrap.small table.booked-calendar thead th {
+	padding: 1.85rem 0 1.2em !important;
+}
+body div.booked-calendar-wrap table.booked-calendar thead th {
+	padding: 2.5rem 0 1.6em !important;
+}
+body div.booked-calendar-wrap.small table.booked-calendar thead tr.days th,
+body div.booked-calendar-wrap table.booked-calendar thead tr.days th {
+	padding: 0.9rem 0 !important;
+}
+div.booked-calendar-wrap.small table.booked-calendar thead tr th .monthName .backToMonth,
+div.booked-calendar-wrap table.booked-calendar thead tr th .monthName .backToMonth {
+	font-size: 14px;
+	display: block;
+	padding-left: 0;
+	text-transform: none;
+}
+div.booked-calendar-wrap.small table.booked-calendar thead tr th a.page-right i.booked-icon-arrow-right:before,
+div.booked-calendar-wrap table.booked-calendar thead tr th a.page-right i.booked-icon-arrow-right:before {
+	content: '\E92B';
+	font-family: 'fontello';
+}
+div.booked-calendar-wrap.small table.booked-calendar thead tr th a.page-left i.booked-icon-arrow-left:before,
+div.booked-calendar-wrap table.booked-calendar thead tr th a.page-left i.booked-icon-arrow-left:before {
+	content: '\E92A';
+	font-family: 'fontello';
+}
+div.booked-calendar-wrap.small table.booked-calendar thead th .page-right,
+div.booked-calendar-wrap.small table.booked-calendar thead th .page-left,
+div.booked-calendar-wrap table.booked-calendar thead th .page-right,
+div.booked-calendar-wrap table.booked-calendar thead th .page-left {
+	margin-top: -0.2rem;
+	top: 50%;
+	font-size: 1.2rem;
+}
+div.booked-calendar-wrap.small table.booked-calendar thead tr.days th,
+div.booked-calendar-wrap table.booked-calendar thead tr.days th {
+	font-size: 12px;
+	line-height: 1.2em;
+	font-weight: 500;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+}
+body .booked-calendar-wrap.small table.booked-calendar td {
+	font-size: 16px;
+}
+div.booked-calendar-wrap.small table.booked-calendar tr.week td.active .date .number,
+div.booked-calendar-wrap table.booked-calendar tr.week td.active .date .number {
+	transform: none;
+}
+body table.booked-calendar td:hover .date.tooltipster span,
+table.booked-calendar tbody td.today .date span,
+.booked-calendar-wrap.small table.booked-calendar tbody tr td.prev-date.today .date {
+	position: relative;
+	z-index: 1;
+}
+.booked-calendar-wrap.small table.booked-calendar thead tr.days th,
+.booked-calendar-wrap.small table.booked-calendar thead th,
+.booked-calendar-wrap table.booked-calendar thead tr.days th,
+.booked-calendar-wrap table.booked-calendar thead th {
+	border: none !important;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people,
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-time {
+	padding-bottom: 17px;
+	height: auto !important;
+}
+body .booked-calendar-wrap.small .booked-appt-list {
+	max-height: 85px;
+}

@@ -1,0 +1,75 @@
+/* MailChimp for WP styles
+----------------------------------------------------------------- */
+.mc4wp-form {
+	position:relative;
+	padding-right: 10.5em;
+}
+.mc4wp-form p{
+	display: inline-block;
+}
+.mc4wp-form .mc4wp-form-fields input[type="email"] {
+	padding: 1.25em 1.8em;
+	width: 100%;
+	vertical-align:top;
+    -webkit-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+            box-sizing: border-box;
+	-webkit-border-radius: 2em;
+	   -moz-border-radius: 2em;
+			border-radius: 2em;
+}
+.mc4wp-form .mc4wp-form-fields input[type="submit"] {
+	position: absolute;
+	z-index:1;
+	right: 0;
+	top: 0;
+	max-width:10em;
+	vertical-align:top;
+	padding: 1.25em 1.85em;
+	line-height: 1.3em !important;
+}
+
+.mc4wp-form .mc4wp-form-fields .mc4wp_gdpr input{
+	display: inline-block;
+	margin-right: 5px;
+	position: relative;
+	top: 1px;
+}
+.ua_safari .mc4wp-form .mc4wp-form-fields .mc4wp_gdpr input {
+	top: 0;
+}
+
+.mc4wp_gdpr input[type="checkbox"]{
+	display: inline-block;
+}
+.mc4wp_gdpr{
+	font-size: 12px;
+	margin-top: 7px;
+	position: relative;
+	padding-left: 7px;
+}
+
+.mc4wp-form .mc4wp-alert {
+	font-size: 0.8em;
+	margin: 1.5em 0;
+	padding: 1em 1.5em;
+	line-height:1.3em;
+	-webkit-border-radius: 2em;
+	   -moz-border-radius: 2em;
+			border-radius: 2em;
+}
+
+.rev_slider .mc4wp-form,
+.revslider-initialised .mc4wp-form {padding-right: 7.2em;}
+
+.rev_slider .mc4wp-form input[type="email"],
+.revslider-initialised .mc4wp-form input[type="email"] {
+	background-color: rgba(255,255,255,0.07) !important;
+	border-color: rgba(255,255,255,0.3) !important;
+}
+
+.rev_slider .mc4wp-form .mc4wp-form-fields input[type="email"],
+.revslider-initialised .mc4wp-form .mc4wp-form-fields input[type="email"] {
+	width: 100%;
+}
+

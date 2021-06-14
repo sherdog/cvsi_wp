@@ -1,0 +1,336 @@
+[2021-04-26 04:43:34] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-26 04:43:34] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 650 and related contents - Fired action: clean_post_cache
+[2021-04-26 04:43:34] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 650 and related contents - Fired action: edit_post
+[2021-04-26 04:43:36] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-26 04:43:37] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-26 04:43:37] [cache_controller::start_cache_preloader_for_specific_urls] Adding 6 URLs to preloader queue
+[2021-04-26 04:43:39] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-26 04:43:39] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-26 04:43:39] [preloader::task] Preloading URL http://new.cvsimotorsports.com/team/justin-green/
+[2021-04-26 04:43:42] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-26 04:43:45] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-26 04:43:48] [preloader::task] Preloading URL http://new.cvsimotorsports.com/team/
+[2021-04-26 04:43:51] [preloader::task] Preloading URL http://new.cvsimotorsports.com/team/feed/
+[2021-04-26 04:43:54] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-26 04:43:58] [preloader::task] Preloading complete
+[2021-04-28 03:58:08] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 03:58:08] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 226 and related contents - Fired action: clean_post_cache
+[2021-04-28 03:58:08] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 226 and related contents - Fired action: edit_post
+[2021-04-28 03:58:10] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 03:58:12] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 03:58:12] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 03:58:13] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 03:58:13] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 03:58:13] [preloader::task] Preloading URL http://new.cvsimotorsports.com/contacts/
+[2021-04-28 03:58:17] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 03:58:20] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 03:58:23] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 03:58:26] [preloader::task] Preloading complete
+[2021-04-28 03:59:20] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 03:59:20] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-04-28 03:59:20] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-04-28 03:59:22] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 03:59:22] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-04-28 03:59:22] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-04-28 03:59:24] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 03:59:24] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 03:59:25] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 03:59:25] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 03:59:25] [preloader::task] Preloading URL http://new.cvsimotorsports.com/gallery/
+[2021-04-28 03:59:30] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 03:59:33] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 03:59:36] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 03:59:39] [preloader::task] Preloading complete
+[2021-04-28 04:00:10] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 04:00:10] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 2065 and related contents - Fired action: clean_post_cache
+[2021-04-28 04:00:10] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 2065 and related contents - Fired action: edit_post
+[2021-04-28 04:00:34] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 04:00:36] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 04:00:36] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 04:00:37] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 04:00:37] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 04:00:37] [preloader::task] Preloading URL http://new.cvsimotorsports.com/service-plus/
+[2021-04-28 04:00:41] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 04:00:44] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 04:00:47] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 04:00:50] [preloader::task] Preloading complete
+[2021-04-28 04:00:51] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 04:00:51] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 2087 and related contents - Fired action: clean_post_cache
+[2021-04-28 04:00:51] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 2087 and related contents - Fired action: edit_post
+[2021-04-28 04:01:40] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 04:01:42] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 04:01:42] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 04:01:43] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 04:01:43] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 04:01:43] [preloader::task] Preloading URL http://new.cvsimotorsports.com/privacy-policy/
+[2021-04-28 04:01:47] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 04:01:50] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 04:01:53] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 04:01:55] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 04:01:55] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 460 and related contents - Fired action: clean_post_cache
+[2021-04-28 04:01:55] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 460 and related contents - Fired action: edit_post
+[2021-04-28 04:01:57] [preloader::task] Preloading complete
+[2021-04-28 04:03:16] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 04:03:18] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 04:03:18] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 04:03:19] [preloader::task] Preloading URL http://new.cvsimotorsports.com/catalog-brand/
+[2021-04-28 04:03:19] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 04:03:19] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 04:03:23] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 04:03:26] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 04:03:30] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 04:03:33] [preloader::task] Preloading complete
+[2021-04-28 04:03:33] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 04:03:33] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 434 and related contents - Fired action: clean_post_cache
+[2021-04-28 04:03:33] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 434 and related contents - Fired action: edit_post
+[2021-04-28 04:04:22] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 04:04:23] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 04:04:23] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 04:04:25] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 04:04:25] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 04:04:25] [preloader::task] Preloading URL http://new.cvsimotorsports.com/catalog-category/
+[2021-04-28 04:04:27] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 04:04:27] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 639 and related contents - Fired action: clean_post_cache
+[2021-04-28 04:04:27] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 639 and related contents - Fired action: edit_post
+[2021-04-28 04:04:28] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 04:04:29] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 04:04:30] [cache_controller::start_cache_preloader_for_specific_urls] Unable to start the preloader. Another preloading process is currently running.
+[2021-04-28 04:04:30] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 04:04:30] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 04:04:31] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 04:04:34] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 04:04:38] [preloader::task] Preloading complete
+[2021-04-28 04:07:48] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-04-28 04:07:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 226 and related contents - Fired action: clean_post_cache
+[2021-04-28 04:07:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 226 and related contents - Fired action: edit_post
+[2021-04-28 04:07:49] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-04-28 04:07:51] [cloudflare::get_cloudflare_cookie] No cookies found in response HTTP packet
+[2021-04-28 04:07:51] [cache_controller::start_cache_preloader_for_specific_urls] Adding 4 URLs to preloader queue
+[2021-04-28 04:07:52] [cache_controller::purge_urls] Purged specific URLs from Cloudflare cache
+[2021-04-28 04:07:52] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-04-28 04:07:52] [preloader::task] Preloading URL http://new.cvsimotorsports.com/contacts/
+[2021-04-28 04:07:55] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/
+[2021-04-28 04:07:59] [preloader::task] Preloading URL http://new.cvsimotorsports.com/author/sheridan/feed/
+[2021-04-28 04:08:02] [preloader::task] Preloading URL http://new.cvsimotorsports.com/
+[2021-04-28 04:08:05] [preloader::task] Preloading complete
+[2021-05-24 02:47:57] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3963 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3964 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3965 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3967 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3968 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3969 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3970 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3971 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3972 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3976 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3977 and related contents - Fired action: deleted_post
+[2021-05-24 02:47:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3990 and related contents - Fired action: deleted_post
+[2021-05-24 02:48:47] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-05-24 02:48:47] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-05-24 02:48:47] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-05-25 14:49:25] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3993 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4005 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4007 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4009 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4011 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4012 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4000 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4003 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 3996 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4031 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4035 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4037 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4039 and related contents - Fired action: deleted_post
+[2021-05-25 14:49:39] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-05-25 14:49:39] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-05-25 14:49:39] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-05-26 03:50:43] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4041 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4043 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4045 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4047 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4048 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4049 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4052 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4053 and related contents - Fired action: deleted_post
+[2021-05-26 03:50:43] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4054 and related contents - Fired action: deleted_post
+[2021-05-26 04:44:54] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-05-26 04:44:54] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-05-26 04:44:54] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-05-27 04:23:09] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-05-27 04:23:09] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4057 and related contents - Fired action: deleted_post
+[2021-05-27 04:23:09] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4059 and related contents - Fired action: deleted_post
+[2021-05-27 04:23:15] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-05-27 04:23:16] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-05-27 04:23:16] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-03 03:34:48] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-03 03:34:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4072 and related contents - Fired action: clean_post_cache
+[2021-06-03 03:34:48] [cache_controller::purge_cache_when_post_is_published] Purge Cloudflare cache for only post id 4072 and related contents - Fired action: transition_post_status
+[2021-06-03 03:34:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4072 and related contents - Fired action: edit_post
+[2021-06-03 03:34:51] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-03 03:34:51] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-03 03:34:51] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-03 03:34:51] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-03 03:34:51] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4072 and related contents - Fired action: clean_post_cache
+[2021-06-03 03:34:51] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 4072 and related contents - Fired action: edit_post
+[2021-06-03 03:34:56] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-03 03:34:57] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-03 03:34:57] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-03 03:36:22] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-03 03:36:22] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-03 03:36:22] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-03 03:36:25] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-03 03:36:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-03 03:36:25] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-03 03:36:25] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-03 03:36:25] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:04:06] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:04:06] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:04:06] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:04:09] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:04:09] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:04:09] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:04:09] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:04:09] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:04:09] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:04:52] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:04:52] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:04:52] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:04:52] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:04:52] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:04:52] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:04:54] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:04:54] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:04:56] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:04:56] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:04:56] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:05:12] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:05:12] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:05:12] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:05:15] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:05:15] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:05:15] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:07:00] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:07:00] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:07:00] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:07:02] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:07:03] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:07:03] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:07:03] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:07:03] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:07:03] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:07:12] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:07:12] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:07:12] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:07:16] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:07:16] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:07:16] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:07:19] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:07:19] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:07:19] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:07:55] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:07:55] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:07:55] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:07:57] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:07:57] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:07:57] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:07:57] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:07:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:07:57] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:08:13] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:08:13] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:08:13] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:08:15] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:08:15] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:08:15] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:08:38] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:08:38] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:08:38] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:11:19] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:11:19] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:11:19] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:11:21] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:11:21] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:11:21] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:11:22] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:11:22] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:11:22] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:11:24] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:11:24] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:11:24] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:11:28] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:11:28] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:11:28] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:11:31] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:11:31] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:11:31] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:20:48] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:20:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:20:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:20:52] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:20:52] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:20:52] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:50:09] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:50:09] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:50:09] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:50:12] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:50:12] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:50:12] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:52:06] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:52:06] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:52:06] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:52:10] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:52:10] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:52:10] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:52:11] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:52:11] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:52:37] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:52:37] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:52:37] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:52:41] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:52:42] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:52:42] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 19:52:46] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 19:52:46] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 19:52:46] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 19:53:30] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 19:53:31] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 19:53:31] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 20:01:32] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 20:01:32] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 20:01:32] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 20:01:37] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 20:01:37] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 20:01:37] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 20:01:39] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 20:01:39] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 20:01:39] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 20:02:36] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 20:02:36] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 20:02:36] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 20:02:41] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 20:02:41] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 20:02:41] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 20:02:46] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 20:02:47] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 20:02:47] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 20:02:48] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 20:02:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 20:02:48] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 20:04:23] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 20:04:23] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 20:04:23] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 20:13:06] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 20:13:06] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 20:13:06] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 20:13:10] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 20:13:11] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 20:13:11] [cache_controller::purge_cache_queue_job] Cache purging complete
+[2021-06-13 20:13:12] [cache_controller::purge_cache_queue_write] queue file not exist
+[2021-06-13 20:13:12] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: clean_post_cache
+[2021-06-13 20:13:12] [cache_controller::purge_cache_on_post_edit] Purge Cloudflare cache for only post id 169 and related contents - Fired action: edit_post
+[2021-06-13 20:14:41] [cache_controller::purge_cache_queue_job] I'm the purge cache cronjob
+[2021-06-13 20:14:41] [cache_controller::purge_urls] Unable to purge some URLs from Cloudflare due to error: Authentication error (err code: 10000)
+[2021-06-13 20:14:41] [cache_controller::purge_cache_queue_job] Cache purging complete
